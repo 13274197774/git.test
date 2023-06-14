@@ -9,5 +9,6 @@ public class gitTest {
         System.out.println("dev5");
         System.out.println("master  5");
         System.out.println("push  git");
+        System.out.println("我添加一条数据 拉取测试");
     }
 }
